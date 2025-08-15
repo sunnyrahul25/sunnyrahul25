@@ -26,6 +26,3 @@ Love to solve real-world intricate problems through automation.
 - 📕 **Learning:** Elisp (Emacs Lisp)  
 - 📖 **Reading:** *Rust for Rustaceans*  
 ---
-📫 Let's Connect  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/sunnyrahul25/)  
-📧 Email: sunnyrahul2024@gmail.com  
